@@ -1,14 +1,26 @@
 <h1 align = "center">SkyblockClient</h1>
 <h3 align = "center">A Hypixel SkyBlock oriented Forge mod installer</h3>
 
-![GitHub all releases](https://img.shields.io/github/downloads/nacrt/SkyblockClient/total?style=flat-square) ![GitHub release (latest by date)](https://img.shields.io/github/downloads/nacrt/SkyblockClient/latest/total?style=flat-square)
+![GitHub all releases](https://img.shields.io/github/downloads/Raidenxd2/SkyClient-PrismLauncher/total?style=flat-square) ![GitHub release (latest by date)](https://img.shields.io/github/downloads/Raidenxd2/SkyClient-PrismLauncher/latest/total?style=flat-square)
 
 
 ## How to use
-1. [Download the latest release](https://github.com/SkyblockClient/SkyblockClient/releases/latest).
+### Prism Launcher
+1. Create a new instance called "SkyClient" and make sure its 1.8.9 and it has Forge installed.
+2. Click "Edit" on your new instance.
+3. Click "Version" on the sidebar.
+4. Click "Open .minecraft"
+5. Copy the path it opens.
+
+### SkyClient Installer
+1. [Download the latest release](https://github.com/Raidenxd2/SkyClient-PrismLauncher/releases/latest).
 2. Run the `SkyblockClient-x.x.x.exe` file.
-3. Select your mods and packs
-4. Press install!
+3. Click "Advanced Settings".
+4. Under "Custom Minecraft Location (E)" click "Select Folder"
+5. Paste the path you copied earlier and click "Select Folder"
+6. Close the "Advanced Settings" window.
+7. Select your mods and packs
+8. Press install!
 
 
 
@@ -27,14 +39,14 @@ How many mods/packs does this have?
 
 Does this work on Mac / Linux?
 
-> Check out the [universial installer](https://github.com/SkyblockClient/Skyclient-installer-Java/releases/latest)!
+> Check out the [universial installer](https://github.com/SkyblockClient/Skyclient-installer-Java/releases/latest)! (SkyClient-PrismLauncher does not support the universal  installer.)
 <br/>
 
 
 
 Where do I download it?
 
-> [Here](https://github.com/nacrt/SkyblockClient/releases/latest).
+> [Here](https://github.com/Raidenxd2/SkyClient-PrismLauncher/releases/latest).
 <br/>
 
 
