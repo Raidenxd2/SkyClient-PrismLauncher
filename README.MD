@@ -59,5 +59,3 @@ Is this safe?
 ## Discord
 
 <a href="https://discord.gg/VH6fdBYzQQ"><img src="https://discordapp.com/api/guilds/780181693100982273/widget.png?style=banner2" alt="Join our Discord"/></a>
-
-a
